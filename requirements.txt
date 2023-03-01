@@ -1,2 +1,1 @@
-io
 streamlit>=1.14.0
