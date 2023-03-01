@@ -1,3 +1,3 @@
-csv
+csv=>0.0.13
 io
 streamlit>=1.14.0
